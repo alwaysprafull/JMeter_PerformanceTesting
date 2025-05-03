@@ -1,5 +1,3 @@
-A structured and practical performance testing project using **Apache JMeter**, designed to test the scalability, reliability, and performance of web applications and APIs.
-
 # 🚀 JMeter Performance Testing
 
 A structured and practical performance testing project using **Apache JMeter**, designed to test the scalability, reliability, and performance of web applications and APIs.
@@ -76,28 +74,28 @@ Test results are stored in .jtl format
 - Server performance trends
 
 🧠 **Best Practices**
-1. Parameterize inputs using CSV files
+-  Parameterize inputs using CSV files
 
-2. Use assertions to validate API responses
+-  Use assertions to validate API responses
 
-3. Monitor CPU/memory during stress testing
+-  Monitor CPU/memory during stress testing
 
-4. Set realistic ramp-up and thread limits
+-  Set realistic ramp-up and thread limits
 
-5. Run in CLI mode for better performance
+-  Run in CLI mode for better performance
 
-6. Analyze reports for bottlenecks and errors
+-  Analyze reports for bottlenecks and errors
 
 📌 **Scenarios Covered**
-1. Load Testing on REST APIs
+-  Load Testing on REST APIs
 
-2. Stress Testing Web Endpoints
+-  Stress Testing Web Endpoints
 
-3. Spike Testing with Sudden Traffic Surges
+-  Spike Testing with Sudden Traffic Surges
 
-4. CSV Parameterization for Multiple Users
+-  CSV Parameterization for Multiple Users
 
-5. Extracting Dynamic Tokens using JSON Extractor
+-  Extracting Dynamic Tokens using JSON Extractor
 
 📬 **Contributing**
 Pull requests are welcome! You can contribute by:
