@@ -1,3 +1,5 @@
+A structured and practical performance testing project using **Apache JMeter**, designed to test the scalability, reliability, and performance of web applications and APIs.
+
 # 🚀 JMeter Performance Testing
 
 A structured and practical performance testing project using **Apache JMeter**, designed to test the scalability, reliability, and performance of web applications and APIs.
